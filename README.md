@@ -1,6 +1,6 @@
 # R in SAS® LSAF
 
-This repository contains PharmaSUG conference papers and examples related to R programming in SAS Life Science Analytics Framework (LSAF).
+This repository contains PharmaSUG conference papers and examples related to R programming in SAS® Life Science Analytics Framework (LSAF).
 
 ## Papers
 
